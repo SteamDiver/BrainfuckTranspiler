@@ -1,0 +1,9 @@
+/home/panda/RiderProjects/MathLangTree_Antlr/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/panda/RiderProjects/MathLangTree_Antlr/bin/Debug/MathLang.pdb
+/home/panda/RiderProjects/MathLangTree_Antlr/bin/Debug/MathLang.exe
+/home/panda/RiderProjects/MathLangTree_Antlr/obj/Debug/MathLang.exe
+/home/panda/RiderProjects/MathLangTree_Antlr/obj/Debug/MathLang.pdb
+/home/panda/RiderProjects/MathLangTree_Antlr/bin/Debug/Antlr3.Runtime.dll
+/home/panda/RiderProjects/MathLangTree_Antlr/bin/Debug/BrainfuckTranspiler.dll
+/home/panda/RiderProjects/MathLangTree_Antlr/bin/Debug/BrainfuckTranspiler.pdb
+/home/panda/RiderProjects/MathLangTree_Antlr/bin/Debug/Input.txt

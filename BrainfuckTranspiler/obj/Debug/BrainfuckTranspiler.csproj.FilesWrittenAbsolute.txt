@@ -1,0 +1,6 @@
+/home/panda/RiderProjects/MathLangTree_Antlr/BrainfuckTranspiler/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/panda/RiderProjects/MathLangTree_Antlr/BrainfuckTranspiler/bin/Debug/BrainfuckTranspiler.pdb
+/home/panda/RiderProjects/MathLangTree_Antlr/BrainfuckTranspiler/bin/Debug/BrainfuckTranspiler.dll
+/home/panda/RiderProjects/MathLangTree_Antlr/BrainfuckTranspiler/obj/Debug/BrainfuckTranspiler.dll
+/home/panda/RiderProjects/MathLangTree_Antlr/BrainfuckTranspiler/obj/Debug/BrainfuckTranspiler.pdb
+/home/panda/RiderProjects/MathLangTree_Antlr/BrainfuckTranspiler/bin/Debug/Antlr3.Runtime.dll
